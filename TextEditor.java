@@ -6,6 +6,7 @@ import java.awt.event.*;
 import javax.swing.plaf.metal.*;
 import javax.swing.text.*;
 
+//Replace  editor with TextEditor
 class editor extends JFrame implements ActionListener {
 	
 	JTextArea t;
